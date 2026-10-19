@@ -1,0 +1,8 @@
+# 16S(DADA2) + shotgun/MAG 流程环境；由 pilot_environment.yml 构建，不含数据
+FROM mambaorg/micromamba:1.5.10
+COPY --chown=$MAMBA_USER:$MAMBA_USER pilot_environment.yml /tmp/env.yml
+RUN micromamba install -y -n base -f /tmp/env.yml && micromamba clean -afy
+ARG MAMBA_DOCKERFILE_ACTIVATE=1
+RUN Rscript -e 'pkgs<-c("dada2","ShortRead","Biostrings","vegan","data.table","ggplot2","patchwork","svglite","ragg","ape"); stopifnot(all(vapply(pkgs,requireNamespace,logical(1),quietly=TRUE)))'
+ENV LITTLEDREAM_ROOT=/work
+WORKDIR /work

@@ -1,0 +1,11 @@
+# 大数据与可由 yml/脚本重建的内容不入库
+raw_data/
+reference_databases/
+必要软件/
+tmp/
+download_logs/
+metadata/*.tmp
+__pycache__/
+*.pyc
+*.bak
+*.pid

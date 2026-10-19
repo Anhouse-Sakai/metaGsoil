@@ -1,0 +1,5 @@
+study_id	field_experiment	randomized_design	biological_replication	N_rates_ge_3	N_rates_ge_4	contains_0N	same_season_yield	raw_sequencing	clear_treatment_mapping	pH_available	SOC_TN_available	N_form_known	sampling_stage_known	sampling_depth_known	treatment_duration_known	P_K_controlled	raw_score	max_score	quality_fraction	notes
+RICE_DONG_2021	yes	yes	yes	yes	no	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	17	17	1.000	2020-08 BioSample dates match the paper's 2020 full-heading sampling and 2020 yield season.
+MAIZE_MENG_2024	yes	unclear	yes	yes	yes	yes	no	yes	yes	yes	yes	yes	yes	yes	yes	yes	15	17	0.882	All bacterial BioSamples checked are dated 2023-07-23; paper yield series ends in 2022. Retained only for separate 16S analysis.
+WHEAT_MA_2025	yes	yes	yes	yes	yes	yes	no	yes	yes	yes	yes	yes	yes	yes	yes	yes	16	17	0.941	Run aliases encode soil type, N rate, and replicate. Supplement has no year-specific 2018 yield; only five-year pooled yield is shown.
+MAIZE_ENEBE_2020	yes		no	yes	no	yes	no	yes	yes		no	yes			no	no	6	17	0.353	Three inorganic/control WGS runs total about 6.1 GB compressed; technical coassembly only, not causal N-response inference.

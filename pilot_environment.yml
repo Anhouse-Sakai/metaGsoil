@@ -1,0 +1,29 @@
+name: littledream-pilot
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - fastp
+  - cutadapt
+  - vsearch
+  - seqkit
+  - multiqc
+  - megahit
+  - metabat2
+  - bowtie2
+  - samtools
+  - prodigal
+  - drep
+  - bioconductor-dada2
+  - bioconductor-shortread
+  - bioconductor-biostrings
+  - r-base
+  - r-vegan
+  - r-data.table
+  - r-ggplot2
+  - r-patchwork
+  - r-svglite
+  - r-ragg
+  - r-ape
+  - r-jsonlite

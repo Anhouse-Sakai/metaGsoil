@@ -1,0 +1,5 @@
+FROM mambaorg/micromamba:1.5.10
+COPY --chown=$MAMBA_USER:$MAMBA_USER checkm2_environment.yml /tmp/env.yml
+RUN micromamba install -y -n base -f /tmp/env.yml && micromamba clean -afy
+ENV LITTLEDREAM_ROOT=/work
+WORKDIR /work

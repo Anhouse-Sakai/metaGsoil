@@ -1,0 +1,13 @@
+study_id	site_id	season_id	treatment_id	N_rate_kg_ha_season	yield_t_ha	pixel_top_y	pixel_zero_y	pixel_15_t_ha_y	digitization_formula	yield_source	digitization_status	uncertainty_note
+RICE_DONG_2021	Shenyang	2017	N0	0	8.783	165	343	39	(343-pixel_top_y)*15/(343-39)	Paper Figure 1	approximate_digitized	Bar-top estimate; use descriptively, not as exact raw data.
+RICE_DONG_2021	Shenyang	2018	N0	0	8.438	172	343	39	(343-pixel_top_y)*15/(343-39)	Paper Figure 1	approximate_digitized	Bar-top estimate; use descriptively, not as exact raw data.
+RICE_DONG_2021	Shenyang	2019	N0	0	9.326	154	343	39	(343-pixel_top_y)*15/(343-39)	Paper Figure 1	approximate_digitized	Bar-top estimate; use descriptively, not as exact raw data.
+RICE_DONG_2021	Shenyang	2020	N0	0	8.635	168	343	39	(343-pixel_top_y)*15/(343-39)	Paper Figure 1	approximate_digitized	Same season as archived microbiome sample; bar-top estimate.
+RICE_DONG_2021	Shenyang	2017	N150	150	11.398	112	343	39	(343-pixel_top_y)*15/(343-39)	Paper Figure 1	approximate_digitized	Bar-top estimate; use descriptively, not as exact raw data.
+RICE_DONG_2021	Shenyang	2018	N150	150	12.385	92	343	39	(343-pixel_top_y)*15/(343-39)	Paper Figure 1	approximate_digitized	Bar-top estimate; use descriptively, not as exact raw data.
+RICE_DONG_2021	Shenyang	2019	N150	150	11.497	110	343	39	(343-pixel_top_y)*15/(343-39)	Paper Figure 1	approximate_digitized	Bar-top estimate; use descriptively, not as exact raw data.
+RICE_DONG_2021	Shenyang	2020	N150	150	12.582	88	343	39	(343-pixel_top_y)*15/(343-39)	Paper Figure 1	approximate_digitized	Same season as archived microbiome sample; bar-top estimate.
+RICE_DONG_2021	Shenyang	2017	N300	300	11.447	111	343	39	(343-pixel_top_y)*15/(343-39)	Paper Figure 1	approximate_digitized	Bar-top estimate; use descriptively, not as exact raw data.
+RICE_DONG_2021	Shenyang	2018	N300	300	12.138	97	343	39	(343-pixel_top_y)*15/(343-39)	Paper Figure 1	approximate_digitized	Bar-top estimate; use descriptively, not as exact raw data.
+RICE_DONG_2021	Shenyang	2019	N300	300	11.645	107	343	39	(343-pixel_top_y)*15/(343-39)	Paper Figure 1	approximate_digitized	Bar-top estimate; use descriptively, not as exact raw data.
+RICE_DONG_2021	Shenyang	2020	N300	300	12.286	94	343	39	(343-pixel_top_y)*15/(343-39)	Paper Figure 1	approximate_digitized	Same season as archived microbiome sample; bar-top estimate.

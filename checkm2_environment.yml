@@ -1,0 +1,7 @@
+name: littledream-checkm2
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.13
+  - checkm2=1.1.0

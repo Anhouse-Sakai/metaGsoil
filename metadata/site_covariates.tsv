@@ -1,0 +1,5 @@
+study_id	site_id	country	crop	latitude	longitude	latitude_band	elevation_m	soil_type_reported	soil_classification_system	soil_type_harmonized	pH	SOC	TN	climate_type_reported	koppen_geiger_class	climate_zone_harmonized	mean_annual_temperature_C	mean_annual_precipitation_mm	aridity_index	irrigation_regime	covariate_verification_status	evidence_source	notes
+RICE_DONG_2021	Shenyang	China	rice																		pending_fulltext_extraction	https://doi.org/10.3389/fmicb.2021.730506	Do not infer subgroup values from city name alone.
+MAIZE_MENG_2024	Hohhot	China	maize																		pending_fulltext_extraction	https://doi.org/10.3389/fpls.2024.1481465	Do not infer subgroup values from city name alone.
+WHEAT_MA_2025	FS;SS;BS	China	wheat																		pending_site_level_disaggregation	https://doi.org/10.3390/microorganisms13102382	Three sites must be separated before subgroup modeling.
+MAIZE_ENEBE_2020	South Africa field	South Africa	maize																		pending_fulltext_extraction	https://doi.org/10.1186/s13213-020-01591-8	MAG-only technical; n=1 per NPK treatment.

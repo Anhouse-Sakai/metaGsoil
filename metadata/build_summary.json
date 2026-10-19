@@ -1,0 +1,14 @@
+{
+  "candidate_count": 28,
+  "sequencing_run_count": 105,
+  "allowlist_counts": {
+    "core_a_rice": 18,
+    "amplicon_technical": 84,
+    "mag_technical": 3
+  },
+  "estimated_bytes": {
+    "core_a_rice": 146440772,
+    "amplicon_technical": 1167150075,
+    "mag_technical": 6061141278
+  }
+}

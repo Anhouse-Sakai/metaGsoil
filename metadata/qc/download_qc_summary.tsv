@@ -1,0 +1,4 @@
+batch	requested_files	passed_files	failed_files	observed_bytes	status
+core_a_rice	18	18	0	146440772	pass
+technical_amplicon	168	168	0	1167150075	pass
+mag_technical	6	6	0	6061141278	pass

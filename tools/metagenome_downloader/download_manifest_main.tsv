@@ -1,0 +1,69 @@
+source_sheet	status	doi	title	database	data_number	description
+文献数据汇总	纳入	10.1371/journal.pone.0055929	Functional Assays and Metagenomic Analyses Reveals Differences between the Microbial Communities Inhabiting the Soil Horizons of a Norway Spruce Plantation	NCBI SRA	SRA055292；SRA055323	"包含同一采样地点的两个土层：有机层O1、O2、O3和矿质层M1、M2、M3，每层3个生物学重复，共6个样品。
+SRA055292：Illumina shotgun土壤宏基因组数据。
+SRA055323：Roche 454 shotgun土壤宏基因组数据。
+样品DNA采用两种提取方法获得，并在每个生物学重复内部合并后测序。研究主要比较有机层与矿质层的微生物组成、功能潜力及环境差异。"
+文献数据汇总	纳入	10.1371/journal.pone.0064659	Metagenomic Insights into Anaerobic Metabolism along an Arctic Peat Soil Profile	NCBI SRA	SRP020650	"共形成4个按深度划分的宏基因组文库。每一深度将4个土芯的冻土子样混合后提取DNA，因此不是逐土芯独立重复。
+数据覆盖活动层0–30 cm及上层永久冻土30–40 cm，主要用于比较随深度变化的厌氧呼吸、发酵、铁还原和产甲烷潜力。"
+文献数据汇总	纳入	10.1016/j.gene.2017.11.039	Contrasting the microbiomes from forest rhizosphere and deeper bulk soil from an Amazon rainforest reserve	MG-RAST	4535167.3；4535136.3；4535204.3；4579275.3；4579276.3；4579277.3	"共6个shotgun文库：3个森林根际重复（FR-1、FR-2、FR-3）和3个深层bulk soil重复（BS-1、BS-2、BS-3）。
+前三个MG-RAST号对应根际土，后三个对应bulk soil。论文写明数据存于MG-RAST，但同时标注“available upon request”，因此公开下载状态需要在正式批量下载前再次确认。"
+文献数据汇总	纳入	10.1016/j.scitotenv.2018.11.442	Effect of soil horizon stratigraphy on the microbial ecology of alpine paleosols	NCBI SRA（论文报告，编号需核实）	PRJNA39461（疑似错误）	"理论上包含15个样品：5个样点 × Ah、Bw、Cox三个层位。
+重要问题：论文报告BioProject为PRJNA39461，但该编号在NCBI对应的是无关的波多黎各凤梨科植物积水（bromeliad phytotelma）宏基因组项目，而不是阿尔卑斯古土壤。本研究的正确SRA项目号暂未找到，因此目前不能据此可靠下载，需联系作者或查找勘误/补充信息。"
+文献数据汇总	纳入	10.3389/fmicb.2019.01442	Distinct Taxonomic and Functional Profiles of the Microbiome Associated With Different Soil Horizons of a Moist Tussock Tundra in Alaska	NCBI SRA；MG-RAST	PRJNA513409；mgp21063	"shotgun部分由3个取芯点 × 4个土层组成，共12个宏基因组；每个土层的重复DNA提取物在测序前合并。
+PRJNA513409还包含研究中的16S扩增子数据，下载时需根据library strategy筛选METAGENOMIC数据。
+MG-RAST正文方法部分曾写作mgp210632，但论文Data Availability和实际项目链接使用mgp21063，本表采用mgp21063。"
+文献数据汇总	纳入	10.3389/fmicb.2022.828977	Shotgun Metagenomics of Deep Forest Soil Layers Show Evidence of Altered Microbial Genetic Potential for Biogeochemical Cycling	NCBI SRA	PRJNA783873	"共12个宏基因组：3个地区 × 2种森林类型（山毛榉/栎林）× 2个深度（topsoil/deepsoil）。
+表土样品由L1和L2层DNA合并，深土样品由L5和L6层DNA合并。研究用于比较树种与土壤深度对微生物C、N循环功能潜力的影响。"
+文献数据汇总	纳入	10.3389/fmicb.2022.815890	Soil Depth Significantly Shifted Microbial Community Structures and Functions in a Semiarid Prairie Agroecosystem	MG-RAST	4569676.3；4571346.3；4569677.3；4569678.3；4569575.3；4569576.3；4569681.3；4569682.3；4569683.3；4569688.3；4569689.3；4569690.3；4569692.3；4569693.3；4569694.3；4569578.3；4571354.3；4569698.3；4569703.3；4569704.3；4569705.3；4569579.3；4571360.3；4569580.3；4568990.3；4569041.3；4569067.3；4569044.3；4569583.3；4572094.3；4572095.3；4569045.3；4569046.3；4572096.3；4569588.3；4572097.3；4572100.3；4571355.3；4569049.3	"设计为5个地点 × 3种土地利用 × 3个深度，共45个复合样品；每个样地4个1 m²样方的DNA按深度混合。
+论文的数据可用性声明只列出39个MG-RAST编号，与正文所述45个样品不一致，推测有6个编号未列出；下载前需进一步核对样品—编号映射，不能把39个编号误当作完整45样品集。"
+文献数据汇总	纳入	10.1186/s40793-022-00416-2	A putatively new family of alphaproteobacterial chloromethane degraders from a deciduous forest soil revealed by stable isotope probing and metagenomics	NCBI SRA	PRJNA742226	"包含13C-CH3Cl和12C-CH3Cl对照的“heavy” DNA，覆盖腐解叶片、有机土和矿质土，共6个宏基因组；每种处理的生物学重复在宏基因组测序前合并。
+研究共得到105个bins，其中Mineral soil bin 2和Degraded leaves bin 11仅见于13C处理。"
+文献数据汇总	纳入	10.1111/1365-2435.14434	Asymmetric responses of abundance and diversity of N-cycling genes to altered precipitation in arid grasslands	NCBI SRA；Dryad	PRJNA916612；10.5061/dryad.80gb5mkwh	"6年降水操纵：−30%、环境对照、+30%和+50%，随机区组设计，每处理4个重复。
+论文报告共36个宏基因组、总计约50.3亿条reads；处理×重复×两个深度的理论组合为32，因此样品总数与基础设计存在差异，应以SRA元数据为准。Dryad保存配套分析数据。"
+文献数据汇总	纳入	10.1016/j.scitotenv.2024.171269	Soil pH and carbon quality index regulate the biogeochemical cycle couplings of carbon, nitrogen and phosphorus in the profiles of Isohumosols	Genome Sequence Archive（CNCB-NGDC/GSA）	PRJCA015516	"8个土壤剖面（4个Udic、4个Ustic）× 2个诊断层 × 4个重复，共64个样品。
+C层DNA含量低，每个样品进行了5次DNA提取后合并建库。论文末尾同时写有“data available on request”，但方法部分明确给出GSA项目号，应优先按PRJCA015516核对公开状态和样品清单。"
+文献数据汇总	纳入	10.3389/fmicb.2024.1419645	Soil phosphorus cycling microbial functional genes of monoculture and mixed plantations of native tree species in subtropical China	National Microbiology Data Center（NMDC, China）	NMDC10018441	"3种林分 × 3个样方 × 3个土层，共27个复合样品；每个样方采用五点S形取样，同层混合。
+数据用于比较纯马尾松、纯格木和混交林转化对土壤磷循环功能基因及网络结构的影响。"
+文献数据汇总	纳入	10.1111/1365-2435.14612	Divergent microbial phosphorous acquisition strategies between active layer and permafrost deposits on the Tibetan Plateau	NCBI SRA；Figshare	PRJNA1037019；10.6084/m9.figshare.26027641	"22个通过DNA质控的站点 × 2个层位，共44个样品；每站5个样方的同层土样混合。
+分析38类磷获取功能基因及携带这些基因的MAG。原始reads来自PRJNA1037019，Figshare为本篇磷循环分析数据。与DOI 10.1038/s41467-024-50276-2使用同一原始数据，下载时不要重复。"
+文献数据汇总	纳入	10.1038/s41467-024-50276-2	Metagenomic insights into microbial community structure and metabolism in alpine permafrost on the Tibetan Plateau	NCBI SRA；Zenodo	PRJNA1037019；10.5281/zenodo.11829921	"22个站点 × 3个土层，理论上共66个宏基因组；平均每样品约14.5 Gb，合计约995.8 Gb clean reads。
+获得274个中等质量MAG（≥70%完整度、≤10%污染度）。Zenodo保存结果数据和代码；该原始数据随后被DOI 10.1111/1365-2435.14612用于磷获取策略再分析。"
+文献数据汇总	纳入	10.1007/s11104-025-07472-w	Land cover types and depth regulate carbon and nitrogen cycle functional genes in permafrost regions on the Qinghai-Tibet Plateau	NCBI SRA	PRJNA1172549	"宏基因组部分选取3个代表站点（每种土地覆盖1站点）× 3个深度，共9个样品。
+PRJNA1172549为metagenome；PRJNA1164449/SUB14741569为配套16S扩增子，不能将扩增子项目用于MAG重建。metagenome提交号为SUB14782718。"
+文献数据汇总	纳入	10.1111/sum.70041	Soil GHG flux potentials and their microbiological mechanisms under urban forest and grassland	NCBI SRA	PRJNA1092094	"原始设计共48个土样：2种植被 × 3个样地 × 2个深度 × 4个月。
+受经费限制，测序前将3个样地按植被、深度和月份混合，最终形成16个宏基因组。"
+文献数据汇总	纳入	10.1111/mec.70096	Environmental Stresses Constrain Soil Microbial Community Functions by Regulating Deterministic Assembly and Niche Width	GSA（CNCB-NGDC）；NCBI SRA	CRA014763；PRJNA1265876	"全调查为45草地 × 6样点 × 3深度，共810个扩增子样品。
+Shotgun部分从25个草地各随机选择1个样点，在3个深度测序，共75个宏基因组，每样品约8–12 Gb。
+论文统一给出两个库号，下载时应根据library strategy和样品元数据筛选75个METAGENOMIC样品。"
+文献数据汇总	纳入	10.1016/j.agee.2026.110279	Coupled shifts in phosphorus fractions and P-cycling genes driven by long-term cattle manure amendment across the 0–40 cm profile of a Mollisol	Genome Sequence Archive（CNCB-NGDC/GSA）	CRA026614	"4种处理：CK不施肥、CF矿质肥、FM1为CF+15 Mg ha⁻¹ yr⁻¹牛粪、FM2为CF+30 Mg ha⁻¹ yr⁻¹牛粪；每处理6个重复、4个深度，共96个复合土样。
+方法部分明确写明全部序列已提交至CRA026614，但文末Data Availability又写“available on request”，两处表述矛盾；正式下载前应在GSA核对公开状态和样品清单。"
+文献数据汇总	纳入	10.3389/fmicb.2025.1714023	Vertical stratification of P pools in subtropical plantation soils under fertilization and dry-season irrigation: multiomics regulatory strategies	NCBI SRA/BioProject；PRIDE（代谢组）	PRJNA1363667；PXD070738	"4种处理：施肥+旱季灌溉（FDS）、仅旱季灌溉（DS）、仅施肥（F）和对照（CK）；每处理5个重复、每重复3个土层，共60个样品。
+施肥在试验前4年实施，FDS和DS在旱季每周滴灌；PRJNA1363667为微生物宏基因组项目，PXD070738不能作为MAG重建输入。"
+文献数据汇总	纳入	10.1038/s41598-018-21197-0	Effects of timber harvesting on the genetic potential for carbon and nitrogen cycling in five North American forest ecozones	European Nucleotide Archive（ENA）；JGI Genome Portal	PRJEB8420；ERS656878–ERS656898；ERS1420503–ERS1420590；JGI proposal 543	"共107个土壤宏基因组。处理包括未采伐对照OM0、仅树干采伐OM1、整株采伐OM2、整株采伐并移除森林地表有机层OM3；部分OM3样地尚未重新形成可采集的有机层。
+ENA保存全体原始reads；论文另指出部分生态区的reads和注释可在JGI proposal 543获取。"
+文献数据汇总	纳入	10.1073/pnas.1901307116	Responses of tundra soil microbial communities to half a decade of experimental warming at two critical depths	European Nucleotide Archive（ENA）	PRJEB31848	"现场增温约+1.1°C，持续4.5年；增温和对照分别在两个深度各有6个重复，共24个宏基因组。
+15–25 cm代表试验开始时的活动层，45–55 cm代表活动层—永久冻土过渡带。同一试验1.5年时的较早数据另存于PRJEB10725，不应与本篇4.5年数据混为一批。"
+文献数据汇总	纳入	10.21203/rs.3.rs-34437/v1	Microbial adaptation in vertical soil profiles contaminated by an antimony smelting plant	NCBI SRA	PRJNA634794	"共采集60个土样：3个剖面 × 20个深度点；统计时归并为0–0.5、0.5–1、1–1.5和1.5–2 m四层。
+其中14个样品进行shotgun测序：CP1 6个、CP2 6个、UCP 2个。下载时应依据library strategy筛选METAGENOMIC数据，避免将其余16S扩增子误作shotgun。"
+文献数据汇总	纳入	10.1111/gcb.15831	The role of oxygen in stimulating methane production in wetlands	NCBI SRA	PRJNA551662	"泥炭浆在0%、5%或10% O₂条件下培养98天，随后全部转为缺氧培养134天，总时长232天；多个时间点和土层组合进行了测序，部分早期时间点将土层混合，终点包含分层重复数据。
+SRA项目同时含16S和shotgun数据，下载时需按library strategy筛选。"
+文献数据汇总	纳入	10.1111/gcb.16024	Core microbiota drive functional stability of soil microbiome in reforestation ecosystems	Genome Sequence Archive（CNCB-NGDC/GSA）	PRJCA007043	"3种恢复阶段 × 3个独立重复 × 10个深度，共90个土壤样品；同一批DNA同时用于扩增子和shotgun测序。
+研究评估退耕恢复过程中整个3 m土壤剖面的微生物功能稳定性及核心微生物作用。"
+文献数据汇总	纳入	10.3389/fenvs.2023.1080505	Variation in microbial CAZyme families across degradation severity in a steppe grassland in northern China	China National GeneBank DataBase（CNGBdb）	CNP0003968	"4种退化程度 × 2个深度 × 3个独立样方，共24个宏基因组；每个样方同一深度的5个土芯混合为一个样品。
+研究重点为CAZyme家族，但公开的是总DNA shotgun数据，而非仅靶向扩增子。"
+文献数据汇总	纳入	10.1016/j.agee.2024.109123	Bacterial functions are main driving factors on paddy soil organic carbon in both surface soil and subsoil	NCBI SRA	PRJNA995040	"每季采集3种耕作 × 3个重复 × 3个深度，共27个样品；三个季节总体设计为81个土样，shotgun项目中的实际run数量应以SRA元数据为准。
+进行MAG重建时只下载PRJNA995040的METAGENOMIC reads，不要使用两个PacBio扩增子BioProject。"
+文献数据汇总	纳入	10.1101/gr.279480.124	Complete genomes of Asgard archaea reveal diverse integrated and mobile genetic elements	NCBI BioProject/BioSample；ggKbase；Zenodo	PRJNA1050611；ggKbase SRVP_asgard；SAMN43308743–SAMN43308745；Zenodo 12617226	"对28个、深度60–175 cm的土壤宏基因组进行群体水平分析；代表性完整基因组包括Atabeyarchaeum deiterrae-1（GCA_037308085.1）、A. deiterrae-2（GCA_037310415.1）和Freyarchaeum deiterrae（GCA_037305845.1）。
+PRJNA1050611保存本研究产生的宏基因组数据；ggKbase提供Asgard基因组，Zenodo提供read mapping和分析结果。"
+文献数据汇总	纳入	10.1111/gcb.17477	Global distribution pattern of soil phosphorus-cycling microbes under the influence of human activities	NCBI SRA；Figshare；Science Data Bank	3321个SRA run（见Table S1/Figshare）；10.6084/m9.figshare.23301569；Science Data Bank bYFF3i	"本篇不是单一田间试验，而是全球公开数据汇编。Figshare保存3321个SRA样品的基础信息和衍生数据，Science Data Bank提供重建的4359个MAG。
+该数据集可能包含本工作簿中已单独收录的研究，批量下载或统计样品数时必须按run accession去重。"
+文献数据汇总	纳入	10.1111/1462-2920.16665	Virus ecology and 7-year temporal dynamics across a permafrost thaw gradient	NCBI SRA；Zenodo	PRJNA386568；10.5281/zenodo.8432681	"共379个泥炭/土壤bulk metagenomes，覆盖palsa、bog和fen三种融化阶段及2010–2017年时间序列。其中214个样品来自2010–2012年既往研究，本研究新增约165个样品以延长时间序列。
+PRJNA386568保存原始宏基因组数据；Zenodo保存本研究整理的vOTU序列和相关结果。该项目与早期Stordalen Mire研究存在样品重叠，批量汇总时应按run accession去重。"
+文献数据汇总	纳入	10.3389/fmicb.2023.1227909	Responses of soil micro-eukaryotic communities to decadal drainage in a Siberian wet tussock tundra	NCBI SRA	PRJNA588342	"共采集12个土芯：6个十年排水处理和6个湿润对照；土芯延伸至永久冻土表面，按0–15 cm泥炭层和15–35 cm冲积层分段，并进一步按7.5 cm区间处理。
+PRJNA588342同时包含扩增子和shotgun文库，下载时必须根据library strategy筛选METAGENOMIC数据。shotgun数据来自同一站点的既往研究，因此与相关论文之间可能存在重复样品。"
+文献数据汇总	纳入	10.3390/microorganisms13092010	Spatial Differentiation of Heavy Metals/Metalloids, Microbial Risk Genes and Soil Microbiota in a Sulfur-Contaminated Landscape	NCBI SRA	PRJNA1307676	"共24个复合土样。垂直方向12个样品：0–0.5、0.5–2、2–4和4–7 m，每层3个重复；水平方向12个样品：上游500 m、废渣堆积区、下游500 m和下游1.5 km，每点3个重复，采样深度0–1 m。
+数据用于分析重金属/类金属污染梯度、微生物群落，以及抗生素抗性、金属抗性和毒力相关风险基因。"
+文献数据汇总	纳入	10.1038/s41597-025-04884-2	Recovery of 679 metagenome-assembled genomes from different soil depths along a precipitation gradient	NCBI SRA；NCBI GenBank	PRJNA855256；SRR20019782–SRR20019834	"设计包括18个田间土芯样品和36个降水富集土柱样品，共54个计划样品；其中1个田间样品未达到测序要求，最终公开53个shotgun runs。
+样品因素包括东/西堪萨斯、原生/农业/弃耕土地利用、三个深度，以及土柱干/湿降水处理。679个MAG的单独GenBank accession列于论文补充表。"
+文献数据汇总	纳入	10.1016/j.apsoil.2025.106647	Microbial carbon-cycling processes drives soil organic carbon accumulation during afforestation in hyper-arid regions	Genome Sequence Archive（CNCB-NGDC/GSA）	PRJCA038302	"4个造林年限 × 每年限4个独立样地 × 2个土层，共32个复合样品；每个样地在同一深度混合3个采样点。
+研究比较造林年限和土层对微生物碳固定、碳分解、甲烷氧化及产甲烷功能潜力的影响。"
